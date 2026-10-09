@@ -1,11 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Charles | Environment Artist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Newsreader:ital,wght@0,400;0,500;1,400&display=swap">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+<header>
+  <a class="brand" href="#/home">Charles</a>
+  <nav aria-label="Main" id="nav"></nav>
+  <span class="spacer"></span>
+</header>
+<main id="view" tabindex="-1"></main>
+<footer>&copy; <span id="yr"></span> Charles. All artwork is my own.</footer>
+<dialog id="lb"><div class="box" id="lbBox"></div></dialog>
+
+<script src="content/site.js"></script>
+
+<!-- PROJECTS: one line per project file. To add a project, copy content/projects/_template.js,
+     fill it in, then add a line for it here. Remove a line to hide a project. -->
+<script src="content/projects/kids-show-1.js"></script>
+<script src="content/projects/kids-show-2.js"></script>
+<script src="content/projects/school-1.js"></script>
+<script src="content/projects/personal-1.js"></script>
+
+<script src="js/app.js"></script>
 </body>
 </html>
