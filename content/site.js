@@ -5,7 +5,7 @@ const SITE = {
   intro: "Replace this with one or two sentences about the kind of worlds you build.",
   email: "you@example.com",
   resumePdf: "resume.pdf",            // put your PDF next to index.html
-  portrait: "",                       // e.g. "images/me.jpg"
+  portrait: "images/Walrus.jpeg",                       // e.g. "images/me.jpg"
   bio: [
     "Write two or three short paragraphs here: who you are, what you love building, and the tools you use.",
     "Say what you are looking for: freelance, collaborations, or full-time roles."
