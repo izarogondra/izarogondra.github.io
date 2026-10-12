@@ -25,7 +25,7 @@ const SITE = {
 const GROUPS = [
   { id: "experience", title: "Work experience", blurb: "Environments I have made professionally. Describe the show, studio, and your role." },
   { id: "school",     title: "School",          blurb: "Projects from coursework. Add the school, class, and what you were asked to explore." },
-  { id: "personal",   title: "Personal",        blurb: "Work made for fun." }
+  { id: "personal",   title: "Personal",        blurb: "Work made in my free time." }
 ];
 
 /* Project files call addProject(). You don't need to touch this part. */

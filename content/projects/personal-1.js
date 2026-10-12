@@ -7,7 +7,7 @@ addProject({
   role: "Solo",
   tools: "Procreate",
   cover: "",
-  ratio: "3/4",
+  ratio: "16/10",
   sections: [
     { h: "The brief", p: ["What did this project need? Who is it for, and what was the visual style?"] },
     { h: "Process", p: ["Walk through your steps: thumbnails, color script, layout, final paint or 3D build."],
