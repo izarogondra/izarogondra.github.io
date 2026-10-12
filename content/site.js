@@ -1,18 +1,18 @@
 /* ============ YOUR DETAILS: edit this file for everything that isn't a project ============ */
 const SITE = {
-  name: "Charles",
+  name: "Izaro Gondra-Alvarez",
   tagline: "Environment artist, 2D and 3D, for cartoony worlds.",
   intro: "Replace this with one or two sentences about the kind of worlds you build.",
-  email: "you@example.com",
-  resumePdf: "resume.pdf",            // put your PDF next to index.html
-  portrait: "images/Walrus.jpeg",                       // e.g. "images/me.jpg"
+  email: "izarogondra@gmail.com",
+  resumePdf: "IzaroGondraAlvarez_CV.pdf",            // put your PDF next to index.html
+  portrait: "images/me.jpeg",                       // e.g. "images/me.jpg"
   bio: [
     "Write two or three short paragraphs here: who you are, what you love building, and the tools you use.",
     "Say what you are looking for: freelance, collaborations, or full-time roles."
   ],
   socials: [
-    { label: "LinkedIn",   url: "https://www.linkedin.com/in/your-name" },
-    { label: "ArtStation", url: "https://www.artstation.com/your-name" }
+    { label: "LinkedIn",   url: "https://www.linkedin.com/in/izaro-gondra/" },
+    { label: "ArtStation", url: "https://www.artstation.com/izarogondraa" }
   ],
   jobs: [
     { title: "Job title, Studio", when: "2024 to present" },
